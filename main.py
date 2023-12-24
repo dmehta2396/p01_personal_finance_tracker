@@ -8,7 +8,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Raaaaaaaaaaaaaaaaand, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi', {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 # from google.colab import drive
 # drive.mount('/content/drive/')
